@@ -1,0 +1,8 @@
+# This is the only supported comment format
+# Format:
+# Original Payee Name Given By Bank|Your Payee Name
+Pago en AMAZON.ES*MH4DZ5NL4 AM Luxembourg LU|Amazon
+Recibo VODAFONE|Vodafone
+Pago en TWYP Las Rozas ES|Twyp
+Pago en STEAMGAMES.COM 425 952 2985 DE|Steam
+
