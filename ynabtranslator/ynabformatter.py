@@ -37,3 +37,5 @@ class YnabFormatter(object):
     """
     records = self._read_sheet(origin, payee_dict)
     self._save_csv(target, records)
+
+

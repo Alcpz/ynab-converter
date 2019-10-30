@@ -83,3 +83,4 @@ class IngtoYnab(RecordTranslator):
       date = xlrd.xldate_as_datetime(data_sheet.row_values(row_index)[0], workbook.datemode).strftime("%m/%d/%Y")
       records.append([date] + data_sheet.row_values(row_index)[1:])
     return records
+
